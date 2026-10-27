@@ -1,0 +1,33 @@
+# Datasets
+data/
+*.csv
+*.parquet
+*.pqt
+*.feather
+*.npy
+*.npz
+
+# Python environments
+.venv/
+venv/
+env/
+.env
+
+# Python caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Large model files
+*.pt
+*.pth
+*.ckpt
+*.onnx
+
+# macOS
+.DS_Store
